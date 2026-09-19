@@ -1,0 +1,4 @@
+interface:
+  display_name: "Learn Anything Tutor"
+  short_description: "Adaptive teaching with practice and feedback"
+  default_prompt: "Teach me this topic so I can use it independently."

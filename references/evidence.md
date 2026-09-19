@@ -1,0 +1,15 @@
+# Research basis and limits
+
+Reviewed 2026-09-19. These sources support selected components; they do not prove this particular skill is “perfect” or that its original patterns outperform other tutors.
+
+| Design choice | Research support | Practical limit |
+| --- | --- | --- |
+| Retrieval and spaced review | Dunlosky et al. rate practice testing and distributed practice highly across many learning settings. [APS summary](https://www.psychologicalscience.org/publications/journals/pspi/learning-techniques.html), [paper](https://doi.org/10.1177/1529100612453266) | Timing and task type should match the goal; a quiz is not always the right immediate response. |
+| Worked examples mixed with practice | The US Institute of Education Sciences guide recommends interleaving worked examples and problem solving, along with quizzing and spacing. [IES guide](https://ies.ed.gov/ncee/wwc/PracticeGuide/1) | Stronger guidance for structured content learning than for every creative or interpersonal skill. |
+| Active participation | A meta-analysis found better outcomes from active learning than lecture in undergraduate STEM courses. [Freeman et al., PNAS](https://doi.org/10.1073/pnas.1319030111) | The study setting is college STEM, so do not present its effect size as universal. |
+| Prior knowledge and context | The National Academies describe how prior knowledge, learner skills, context, and goals affect learning and strategy choice. [How People Learn II](https://www.nationalacademies.org/read/24783/chapter/2) | A short chat diagnostic is a rough estimate, not a formal assessment. |
+| Metacognition and feedback | EEF recommends explicit teaching and scaffolding of metacognitive strategies, and feedback aimed at closing a specific gap. [Metacognition](https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition), [feedback](https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/feedback) | Feedback can be ineffective or harmful when vague or poorly timed. |
+| Guarding against answer dependency | A randomized study in high school mathematics found that access to an unrestricted GPT-style assistant could raise practice performance while reducing later unaided performance. [Bastani et al., PNAS](https://doi.org/10.1073/pnas.2422633122) | One setting and tool design; do not generalize the measured effect to every AI tutor. |
+| Learner agency and privacy | UNESCO's guidance calls for a human-centred approach, privacy protection, and attention to age-appropriate use. [UNESCO guidance](https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research) | Apply applicable local policies and avoid collecting unnecessary learner data. |
+
+The original patterns in this repository are hypotheses built from these principles. Their names and sequencing are our design, not terms taken from the cited studies. Meaningful evaluation would need independent learner tasks, delayed checks, diverse subjects and learners, and comparison with a simpler tutor.
