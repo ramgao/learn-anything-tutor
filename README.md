@@ -18,12 +18,12 @@ An open Codex skill for teaching almost any subject through adaptive explanation
 
 ## Install in Codex
 
-Copy this repository folder to your Codex skills directory, usually `~/.codex/skills/learn-anything-tutor`. Restart Codex or refresh skills if needed. The entrypoint is [`SKILL.md`](SKILL.md); Codex can select it for tutoring requests or you can invoke `$learn-anything-tutor` explicitly.
+Clone this repository into your Codex skills directory, usually `~/.codex/skills/learn-anything-tutor`. Restart Codex or refresh skills if needed. The entrypoint is [`SKILL.md`](SKILL.md); Codex can select it for tutoring requests or you can invoke `$learn-anything-tutor` explicitly.
 
-On Windows PowerShell, from the directory containing this repository:
+On Windows PowerShell:
 
 ```powershell
-Copy-Item -Recurse -Force . "$env:USERPROFILE/.codex/skills/learn-anything-tutor"
+git clone https://github.com/ramgao/learn-anything-tutor.git "$env:USERPROFILE/.codex/skills/learn-anything-tutor"
 ```
 
 ## Try it
